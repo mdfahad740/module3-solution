@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lora', serif;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+  margin: auto;
+  }
+
+.navbar-brand {
+  text-align: left;
+  text-decoration: none;
+  padding-bottom: 50px;
+}
+
+#header-nav {
+  border: 2px solid black;
+  background-color: #999999;
+}
+p {
+  padding: 10px;
+  margin: 0px;
+}
+
+.container {
+  border: none;
+  margin: auto;
+}
+section {
+  border: 2px solid black;
+  background-color: #999999;
+  color: solid black;
+  width: 100%;
+  position: relative;
+  overflow: auto;
+  margin: 1% auto;
+  height: 1000px;
+}
+
+#chi {
+  text-align: center;
+  font-size: 125%;
+  font: bold;
+  margin: 0 auto .5%;
+  padding: 5px;
+}
+
+#bee {
+  text-align: center;
+  font-size: 125%;
+  font: bold;
+  margin: 0 auto .5%;
+  padding: 5px;
+  color: solid black;
+}
+
+#sus {
+  text-align: center;
+  font-size: 125%;
+  font: bold;
+  margin: 0 auto .5%;
+  padding: 5px;
+}
+
+.row {
+  width: 100%;
+}
+
+.container .collapsed button {
+  color: solid black;
+}
+
+#nav-list a {
+  color: black;
+  font-size: 120%;
+  text-align: center;
+  border-top: 1px solid black;
+  background-color: white;
+  padding: 20px;
+  vertical-align: auto;
+}
+
+#nav-list a:hover {
+ box-shadow: 3px black;
+}
+
+#susu {
+  border: 1px;
+  margin-bottom: -7px;
+}
